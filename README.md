@@ -50,12 +50,6 @@ Model performance was evaluated using **F1-score**. Below are the top-performing
 
 ---
 
-## 📄 Report
-
-📁 Available in the `report/` folder  
-📄 [Download Report](report/MNIST_ML_Classification_Report.docx)
-
----
 
 ## 🚀 Future Improvements
 
